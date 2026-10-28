@@ -1,133 +1,137 @@
 <div align="center">
 
-# Hey there, I'm Himanshu 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B1220,45:123B5D,100:007F86&text=HIMANSHU&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descSize=17&descAlignY=70&animation=fadeIn" width="100%" alt="Himanshu profile banner" />
 
-### 🤖 AI/ML Learner • B.Tech CSE • Aspiring Machine Learning Engineer
+### **B.Tech CSE (AI/ML) | Aspiring AI/ML Engineer**
 
-*Turning curiosity into code and ideas into projects.*
+**Building practical projects. Strengthening fundamentals. Solving real-world problems.**
 
 <a href="https://github.com/Himanshu2007-Maurya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+AI+%26+Machine+Learning;Building+projects+and+learning+by+doing;Open+to+AI%2FML+%26+Data+Science+internships" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning;Python+%7C+C%2B%2B+%7C+Data+Science;Open+to+AI%2FML+and+Data+Science+Internships" alt="Professional profile headline" />
 </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Himanshu-black?style=for-the-badge&logo=github)](https://github.com/Himanshu2007-Maurya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-352a06342/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauryahimanshu2007/)
-[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/manish915115)
+[![GitHub](https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Himanshu2007-Maurya)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/himanshu-352a06342/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-C13584?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/mauryahimanshu2007/)
+[![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/manish915115)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## **01 / PROFESSIONAL SUMMARY**
 
-Hey! I'm **Himanshu**, a B.Tech Computer Science student specializing in **Artificial Intelligence and Machine Learning**. I like exploring how technology works, solving programming problems, and turning what I learn into practical projects.
+I'm **Himanshu**, a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**. I enjoy applying programming, analytical thinking, and machine learning concepts to practical projects. I'm focused on improving my technical foundation and gaining experience by contributing to real-world work.
 
-- 🎓 Studying Computer Science Engineering (AI/ML)
-- 🧠 Learning Machine Learning, Deep Learning, and Data Science
-- 💻 Practicing Data Structures & Algorithms with C++
-- 📊 Interested in data analysis, predictive modeling, and real-world ML applications
-- 🔍 **Currently looking for AI/ML, Machine Learning, Data Science, or Data Analyst internships**
-- 🤝 Open to collaboration, mentorship, feedback, and learning opportunities
+- **EDUCATION:** B.Tech in Computer Science Engineering — AI/ML specialization
+- **CORE INTERESTS:** Machine Learning, Deep Learning, Data Science, Predictive Analytics
+- **PROGRAMMING:** Python and C++
+- **PROBLEM SOLVING:** Data Structures & Algorithms
+- **CAREER FOCUS:** Seeking **AI/ML, Machine Learning, Data Science, and Data Analyst internships**
+- **COLLABORATION:** Open to projects, mentorship, feedback, and professional connections
 
-## 🧰 Tech Stack
+## **02 / TECHNICAL SKILLS**
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI, ML & Data
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-1E3A5F?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C%2B%2B-1D4ED8?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![Pandas](https://img.shields.io/badge/PANDAS-4338CA?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/NUMPY-0369A1?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-0F766E?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-BE123C?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/GIT-B45309?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GITHUB-27272A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_CODE-075985?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![Jupyter](https://img.shields.io/badge/JUPYTER-9A3412?style=for-the-badge&logo=jupyter&logoColor=FFFFFF)
 
 </div>
 
-## 🚀 Featured Projects
+| **AREA** | **SKILLS & FOCUS** |
+|:---|:---|
+| **Programming** | Python, C++ |
+| **Machine Learning** | ML fundamentals, model evaluation, predictive modeling |
+| **Data Science** | Pandas, NumPy, data analysis, preprocessing |
+| **Web Fundamentals** | HTML, CSS |
+| **Developer Tools** | Git, GitHub, VS Code, Jupyter Notebook |
+
+## **03 / SELECTED PROJECTS**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 EconoCausal
+### **01. EconoCausal**
 **Dynamic Pricing via Double Machine Learning**
 
-An internship project exploring pricing decisions, data validation, and causal analysis.
+An internship project exploring pricing decisions, dataset validation, and causal analysis.
 
-- 📂 Dataset upload validation and preview
-- ⚙️ Python backend and API
-- 📊 Interactive dashboard
-- 🎯 Exploring causal inference and promotional budget optimization
+- **Backend:** Python API and upload validation
+- **Dashboard:** Dataset upload, preview, and interactive UI
+- **Research direction:** Causal inference and promotional budget optimization
 
 </td>
 <td width="50%" valign="top">
 
-### 🏡 Real Estate Price Prediction
+### **02. Real Estate Price Prediction**
 
-A machine learning project to estimate property prices from property features and location-related data.
+A machine learning project that estimates property prices from property attributes and location-related data.
 
-- 🧹 Data preparation and feature handling
-- 🤖 Predictive modeling
-- 📉 Model evaluation
+- Data preparation and feature engineering
+- Predictive model development
+- Model evaluation and error analysis
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Customer Churn Prediction
+### **03. Customer Churn Prediction**
 
-A deep learning project focused on identifying customers who may be likely to leave a service.
+A deep learning project exploring how customer data can help identify potential churn.
 
-- 📊 Customer data analysis
-- 🧠 Deep learning fundamentals
-- 🔎 Predictive insights
+- Customer data analysis
+- Deep learning fundamentals
+- Predictive insights
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 What I'm Building Toward
+### **CURRENT DEVELOPMENT**
 
-- Stronger ML and model evaluation skills
-- Better DSA and problem-solving
-- End-to-end ML applications
-- Practical projects that solve real problems
+- Improving ML and model evaluation skills
+- Practicing DSA and problem solving
+- Learning feature engineering
+- Exploring end-to-end ML applications
 
 </td>
 </tr>
 </table>
 
-## 📚 Currently Learning
+## **04 / CURRENT LEARNING**
 
-- Machine Learning algorithms and model evaluation
-- Deep Learning and neural networks
-- Data preprocessing and feature engineering
-- Data Structures & Algorithms
-- Building and deploying end-to-end ML applications
+- **MACHINE LEARNING:** Algorithms, metrics, model evaluation
+- **DEEP LEARNING:** Neural network fundamentals
+- **DATA SCIENCE:** Data preprocessing and feature engineering
+- **DSA:** Consistent C++ practice
+- **DEPLOYMENT:** Building complete, practical ML applications
 
-## 🎯 My Goal
+## **05 / CAREER OBJECTIVE**
 
-To become a skilled **AI/ML Engineer** by building strong fundamentals, working on practical projects, and learning from real-world experience. I'm excited to contribute to a team, take on challenges, and keep improving.
+My goal is to grow into a capable **AI/ML Engineer** through consistent learning, hands-on development, and real-world experience. I'm eager to contribute to a team, learn from experienced professionals, and help build useful data-driven solutions.
 
-## 📫 Connect With Me
+**If you're hiring interns or building something in AI/ML or Data Science, I'd be glad to connect.**
+
+## **06 / CONTACT & SOCIALS**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-352a06342/)
-[![Instagram](https://img.shields.io/badge/Instagram-@mauryahimanshu2007-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauryahimanshu2007/)
-[![X](https://img.shields.io/badge/X-@manish915115-000000?style=for-the-badge&logo=x)](https://x.com/manish915115)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mauryvanshiy.raja)
-[![Email/Phone](https://img.shields.io/badge/Mobile-%2B91%208840911852-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918840911852)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-352a06342/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@mauryahimanshu2007-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauryahimanshu2007/)
+[![X](https://img.shields.io/badge/X-@manish915115-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manish915115)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mauryvanshiy.raja)
+[![MOBILE](https://img.shields.io/badge/MOBILE-%2B91%208840911852-0F766E?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918840911852)
 
 </div>
 
@@ -135,8 +139,8 @@ To become a skilled **AI/ML Engineer** by building strong fundamentals, working 
 
 <div align="center">
 
-### 💡 *Learn continuously. Build consistently. Stay curious.*
+**DISCIPLINE · CURIOSITY · CONSISTENT IMPROVEMENT**
 
-**Thanks for visiting my profile! If you're working on AI/ML or data science, let's connect.** ✨
+*Thanks for visiting my profile.*
 
 </div>
