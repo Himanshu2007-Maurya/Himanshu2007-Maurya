@@ -135,7 +135,7 @@ My goal is to become a strong **AI/ML Engineer** by combining consistent learnin
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@mauryahimanshu2007-38BDF8?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/mauryahimanshu2007/)
 [![X](https://img.shields.io/badge/X-@manish915115-075985?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/manish915115)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-CONNECT-0284C7?style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/mauryvanshiy.raja)
-[![Mobile](https://img.shields.io/badge/MOBILE-+91%208840911852-0369A1?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](tel:+918840911852)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-MESSAGE_ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/918840911852)
 
 </div>
 
