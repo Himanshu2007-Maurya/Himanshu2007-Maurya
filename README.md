@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:075985,45:0284C7,100:7DD3FC&text=HIMANSHU&fontColor=FFFFFF&fontSize=64&fontAlignY=40&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descSize=18&descAlignY=69&animation=fadeIn" width="100%" alt="Himanshu — AI and Machine Learning" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:075985,45:0284C7,100:7DD3FC&text=HIMANSHU&fontColor=7DD3FC&fontSize=64&fontAlignY=40&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descSize=18&descColor=BAE6FD&descAlignY=69&animation=fadeIn" width="100%" alt="Himanshu — AI and Machine Learning" />
 
 # **HIMANSHU**
 ### **B.Tech CSE (AI/ML) | Aspiring AI/ML Engineer**
 **Building intelligent solutions • Turning data into insights • Learning every day**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning;Python+%7C+C%2B%2B+%7C+Data+Science;Building+Projects+That+Solve+Real+Problems;Open+to+Internship+Opportunities" alt="Animated professional headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=900&color=7DD3FC&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning;Python+%7C+C%2B%2B+%7C+Data+Science;Building+Projects+That+Solve+Real+Problems;Open+to+Internship+Opportunities" alt="Animated professional headline" />
 
 [![GitHub](https://img.shields.io/badge/GITHUB-0C4A6E?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Himanshu2007-Maurya)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0284C7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/himanshu-352a06342/)
@@ -17,7 +17,7 @@
 
 ---
 
-## **✦ ABOUT ME**
+## <span style="color:#38BDF8">**✦ ABOUT ME**</span>
 I'm **Himanshu**, a **Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning**. I enjoy building practical projects, exploring data-driven solutions, and strengthening my programming and problem-solving skills.
 
 - 🎓 **EDUCATION:** B.Tech — Computer Science Engineering (AI/ML)
@@ -27,7 +27,7 @@ I'm **Himanshu**, a **Computer Science Engineering student specializing in Artif
 - 🎯 **GOAL:** Grow as an **AI/ML Engineer** and contribute to meaningful real-world projects
 - 🤝 **OPEN TO:** AI/ML, Machine Learning, Data Science and Data Analyst internships
 
-## **✦ TECH STACK**
+## <span style="color:#38BDF8">**✦ TECH STACK & INDUSTRY-RELEVANT TECHNOLOGIES**</span>
 
 <div align="center">
 
@@ -42,18 +42,26 @@ I'm **Himanshu**, a **Computer Science Engineering student specializing in Artif
 ![GitHub](https://img.shields.io/badge/GITHUB-0C4A6E?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_CODE-0284C7?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-0369A1?style=for-the-badge&logo=jupyter&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FASTAPI-0284C7?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/REACT-075985?style=for-the-badge&logo=react&logoColor=7DD3FC)
+![Vite](https://img.shields.io/badge/VITE-0369A1?style=for-the-badge&logo=vite&logoColor=7DD3FC)
+![Pytest](https://img.shields.io/badge/PYTEST-0284C7?style=for-the-badge&logo=pytest&logoColor=FFFFFF)
+![Jupyter Notebook](https://img.shields.io/badge/JUPYTER_NOTEBOOK-075985?style=for-the-badge&logo=jupyter&logoColor=FFFFFF)
 
 </div>
 
 | **CATEGORY** | **TOOLS & SKILLS** |
 |:--|:--|
 | **Programming** | Python, C++ |
-| **Machine Learning** | ML fundamentals, predictive modeling, model evaluation |
-| **Data Science** | Data analysis, preprocessing, Pandas, NumPy |
-| **Web Fundamentals** | HTML, CSS |
-| **Developer Tools** | Git, GitHub, VS Code, Jupyter Notebook |
+| **Data Analysis** | Pandas, NumPy, data cleaning, exploratory data analysis |
+| **Machine Learning** | Scikit-learn, preprocessing, feature engineering, model evaluation |
+| **Deep Learning** | Neural network fundamentals |
+| **Backend & APIs** | FastAPI, REST API fundamentals, file-upload validation |
+| **Frontend** | React, JavaScript fundamentals, HTML, CSS, Vite |
+| **Testing & Quality** | Python unittest, Pytest fundamentals, validation testing |
+| **Developer Workflow** | Git, GitHub, VS Code, Jupyter Notebook |
 
-## **✦ FEATURED PROJECTS**
+## <span style="color:#38BDF8">**✦ FEATURED PROJECTS**</span>
 
 <table>
 <tr>
@@ -107,19 +115,19 @@ A deep learning project exploring customer data to identify potential churn patt
 </tr>
 </table>
 
-## **✦ EXPERIENCE & LEARNING**
+## <span style="color:#38BDF8">**✦ EXPERIENCE & LEARNING**</span>
 
 - **SEABOURN** — Added as a requested profile item; tell me the exact role, project, or organization name if you want a more specific description.
 - **SK Learn** — Added as a requested learning item; share the full name or link if you want this represented accurately.
 - **CURRENT FOCUS:** Improving ML fundamentals, data analysis, model evaluation, and practical project development.
 
-## **✦ CAREER OBJECTIVE**
+## <span style="color:#38BDF8">**✦ CAREER OBJECTIVE**</span>
 
 My goal is to become a strong **AI/ML Engineer** by combining consistent learning, hands-on development, and real-world collaboration. I'm eager to contribute to useful data-driven products, learn from experienced teams, and keep improving through practical work.
 
 **Let's connect and build something meaningful!**
 
-## **✦ CONNECT WITH ME**
+## <span style="color:#38BDF8">**✦ CONNECT WITH ME**</span>
 
 <div align="center">
 
