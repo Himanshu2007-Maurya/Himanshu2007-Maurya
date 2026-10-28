@@ -34,7 +34,7 @@ I'm **Himanshu**, a **Computer Science Engineering student specializing in Artif
 ![Python](https://img.shields.io/badge/PYTHON-075985?style=for-the-badge&logo=python&logoColor=BAE6FD)
 ![C++](https://img.shields.io/badge/C%2B%2B-0369A1?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![Pandas](https://img.shields.io/badge/PANDAS-0284C7?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
-![NumPy](https://img.shields.io/badge-NUMPY-0EA5E9?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/NUMPY-0EA5E9?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
 ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-075985?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-0284C7?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-0369A1?style=for-the-badge&logo=css3&logoColor=FFFFFF)
